@@ -1,0 +1,7 @@
+﻿.vscode/
+.gemini/
+.local/
+__pycache__/
+*.pyc
+.env
+.env.*
